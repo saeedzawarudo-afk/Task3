@@ -1,0 +1,7 @@
+[0m[1mdocker_image.nginx: Refreshing state... [id=sha256:4a86014ec6994761b7f3118cf47e4b4fd6bac15fc6fa262c4f356386bbc0e9d9nginx:alpine][0m
+[0m[1mdocker_container.web: Refreshing state... [id=418cdf5abceb767b5c8c527f393c1d17fc473ef5c447d972322140f01c20a38c][0m
+
+[0m[1m[32mNo changes.[0m[1m Your infrastructure matches the configuration.[0m
+
+[0mTerraform has compared your real infrastructure against your configuration
+and found no differences, so no changes are needed.
